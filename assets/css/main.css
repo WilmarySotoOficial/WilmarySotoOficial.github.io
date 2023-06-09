@@ -1307,3 +1307,7 @@ h6 {
 .footer .credits a {
   color: var(--color-primary);
 }
+
+ul#menu li {
+  display:inline;
+}
